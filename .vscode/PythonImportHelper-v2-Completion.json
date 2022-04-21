@@ -666,7 +666,7 @@
         "kind": 5,
         "importPath": "deployment.settings.production",
         "description": "deployment.settings.production",
-        "peekOfCode": "SECRET_KEY = 'django-insecure-fkbiqk3fleg%n)cv%9n)e$tkdrd_ywz9tlwf%8s6yro1!v8h84'\nDEBUG = False\nALLOWED_HOSTS = ['127.0.0.1', '.herokuapp.com']",
+        "peekOfCode": "SECRET_KEY = 'django-insecure-fkbiqk3fleg%n)cv%9n)e$tkdrd_ywz9tlwf%8s6yro1!v8h84'\nDEBUG = False\nALLOWED_HOSTS = ['127.0.0.1', 'septa-deploy.herokuapp.com']",
         "detail": "deployment.settings.production",
         "documentation": {}
     },
@@ -675,7 +675,7 @@
         "kind": 5,
         "importPath": "deployment.settings.production",
         "description": "deployment.settings.production",
-        "peekOfCode": "DEBUG = False\nALLOWED_HOSTS = ['127.0.0.1', '.herokuapp.com']",
+        "peekOfCode": "DEBUG = False\nALLOWED_HOSTS = ['127.0.0.1', 'septa-deploy.herokuapp.com']",
         "detail": "deployment.settings.production",
         "documentation": {}
     },
@@ -684,7 +684,7 @@
         "kind": 5,
         "importPath": "deployment.settings.production",
         "description": "deployment.settings.production",
-        "peekOfCode": "ALLOWED_HOSTS = ['127.0.0.1', '.herokuapp.com']",
+        "peekOfCode": "ALLOWED_HOSTS = ['127.0.0.1', 'septa-deploy.herokuapp.com']",
         "detail": "deployment.settings.production",
         "documentation": {}
     },
